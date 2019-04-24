@@ -22,7 +22,7 @@ spring boot demo 是一个用来学习 spring boot 的项目，总共包含 **`5
 
 ### 运行方式
 
-1. `git clone https://github.com/xkcoding/spring-boot-demo.git`
+1. `git clone https://github.com/daQzi/spring-boot-demo.git`
 2. 使用 IDEA 打开 clone 下来的项目
 3. 在 IDEA 中打开项目
 4. 在 IDEA 中 Maven Projects 的面板导入根目录下 的 `pom.xml`
